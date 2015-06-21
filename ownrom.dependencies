@@ -1,0 +1,26 @@
+[
+  {
+    "repository": "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-12.1",
+    "remote": "github"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_qcom_fm",
+    "target_path": "hardware/qcom/fm",
+    "revision": "cm-12.1",
+    "remote": "github"
+  },
+  {
+   "repository": "ROM-Jeremy/proprietary_vendor_lge",
+   "target_path": "vendor/lge",
+   "revision": "LP",
+   "remote": "github"
+  },
+  {
+    "repository": "ROM-Jeremy/android_kernel_lge_msm8226",
+    "target_path": "kernel/lge/msm8226",
+    "revision": "LP",
+    "remote": "github"
+  }
+]
